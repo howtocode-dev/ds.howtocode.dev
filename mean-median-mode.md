@@ -1,4 +1,4 @@
-# mean, median, mode {#mean,-median,-mode}
+## mean, median, mode
 
 **mean **কে অনেকেই গড় নামেই চিনে থাকবেন। খুব সহজ - যতগুলো এলিমেন্ট নিয়ে কাজ করা হচ্ছে সেগুলোর যোগফলকে মোট এলিমেন্ট সংখ্যা দিয়ে ভাগ করলেই গড় পাওয়া যায়।
 
@@ -11,7 +11,7 @@ np.mean(a)
 7.5
 ```
 
-অর্থাৎ,![](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B10%2B5%2B12%2B3%7D%7B4%7D%20%3D%207.5&mode=inline "$\frac{10+5+12+3}{4} = 7.5$")
+অর্থাৎ,![](https://render.githubusercontent.com/render/math?math=\frac{10%2B5%2B12%2B3}{4} %3D 7.5&mode=inline "$\frac{10+5+12+3}{4} = 7.5$")
 
 ```
 a = np.array([[1, 2], [3, 4]])
@@ -52,7 +52,6 @@ np.mean(a)
 from scipy import stats # এটি আরেকটি প্রয়োজনীয় লাইব্রেরী
 a = np.array([10, 14, 4, 7, 9, 12, 4, 15]) # 4 এর উপস্থিতি বেশি
 stats.mode(a)
-
 ```
 
 ```
