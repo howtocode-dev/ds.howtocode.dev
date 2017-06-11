@@ -1,9 +1,9 @@
 # Summary
 
 * [ভূমিকা](README.md)
-* [প্রয়োজনীয় সেটআপ](setup.md)
 * [ডাটা কি](data.md)
-* [ডাটা সায়েন্স কি](data-science.md)
+* [ডাটা মাইনিং](data-mining.md)
+* [প্রয়োজনীয় সেটআপ](setup.md)
 * [গড়, মধ্যক, প্রচুরক](mean-median-mode.md)
 * [নরমাল ডিস্ট্রিবিউশন](nd.md)
 * [ভ্যারিয়েন্স ও স্ট্যান্ডার্ড ডেভিয়েশন](variance-sd.md)
