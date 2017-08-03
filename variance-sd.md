@@ -12,8 +12,8 @@ Variance, \, \sigma ^ 2 = \frac{\sum \(x-\mu\) ^ 2}{N}
 
 যেখানে![](https://render.githubusercontent.com/render/math?math=x&mode=inline "$x$")হচ্ছে এলিমেন্ট এবং![](https://render.githubusercontent.com/render/math?math=%5Cmu&mode=inline "$\mu$")হচ্ছে গড়। আর![](https://render.githubusercontent.com/render/math?math=N&mode=inline "$N$")হচ্ছে মোট এলিমেন্ট সংখ্যা।
 
-![](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation%2A%7D%0AVariance%20%3D%20%5Cfrac%7B%2811.19-1%29%5E2%20%2B%20%2811.19-4%29%5E2%20%2B%20%2811.19-5%29%5E2%20%2B%20%2811.19-6%29%5E2%20...%20%20%2811.19-18%29%5E2%20%2B%20%2811.19-20%29%5E2%7D%7B36%7D%0A%5Cend%7Bequation%2A%7D&mode=display "$$\begin{equation\*}
-Variance = \frac{\(11.19-1\)^2 + \(11.19-4\)^2 + \(11.19-5\)^2 + \(11.19-6\)^2 ...  \(11.19-18\)^2 + \(11.19-20\)^2}{36}
+![](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation%2A%7D%0AVariance%20%3D%20%5Cfrac%7B%281-11.19%29%5E2%20%2B%20%284-11.19%29%5E2%20%2B%20%285-11.19%29%5E2%20%2B%20%286-11.19%29%5E2%20...%20%20%2818-11.19%29%5E2%20%2B%20%2820-11.19%29%5E2%7D%7B36%7D%0A%5Cend%7Bequation%2A%7D&mode=display "$$\begin{equation\*}
+Variance = \frac{\(1-11.19\)^2 + \(4-11.19\)^2 + \(5-11.19\)^2 + \(6-11.19\)^2 ...  \(18-11.19\)^2 + \(20-11.19\)^2}{36}
 \end{equation\*}$$")
 
 
